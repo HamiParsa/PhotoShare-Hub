@@ -1,0 +1,6 @@
+{
+  "name": "PhotoShare Hub",
+  "description": "High-performance local Wi-Fi auto-sync and HTTP photo sharing server with web file explorer, gallery browser, and multi-language RTL support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
